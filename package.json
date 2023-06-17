@@ -1,6 +1,6 @@
 {
   "name": "@haensl/koa-error-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Koa error logging middleware using iso-log.",
   "main": "index.js",
   "scripts": {
@@ -63,11 +63,11 @@
   },
   "homepage": "https://github.com/haensl/koa-error-middleware#readme",
   "peerDependencies": {
-    "@haensl/iso-log": "^1.0.0"
+    "@haensl/iso-log": "^2.0.1"
   },
   "devDependencies": {
     "@haensl/eslint-config": "^1.4.6",
-    "@haensl/iso-log": "^1.0.0",
+    "@haensl/iso-log": "^2.0.1",
     "eslint": "^8.42.0",
     "husky": "^8.0.3",
     "jest": "^29.5.0",
